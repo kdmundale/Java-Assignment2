@@ -38,27 +38,31 @@ public class Test {
 		questions[3]="Do pigs fly?";
 		questions[4]="If it looks like a duck, quacks like a duck, and walks like a duck.... is it, in fact, a duck?";
 		
-		String[] choices1 = new String[3];
+		String[] choices1 = new String[4];
 		choices1[0]= "1. Blue";
 		choices1[1]="2. Red";
 		choices1[2]="3. Pink";
+		choices1[3]="4. Orange";
 		
-		String[] choices2 = new String[3];
+		String[] choices2 = new String[4];
 		choices2[0]= "1. 7";
 		choices2[1]="2. 13";
 		choices2[2]="3. 8";
+		choices2[3]="4. 33";
 		
-		String[] choices3 = new String[3];
+		String[] choices3 = new String[4];
 		choices3[0]= "1. 318";
 		choices3[1]="2. 216";
 		choices3[2]="3. 156";
+		choices3[3]="4. 333";
 		
-		String[] choices4 = new String[3];
+		String[] choices4 = new String[4];
 		choices4[0]= "1. Yes";
 		choices4[1]="2. Maybe";
 		choices4[2]="3. Nope";
+		choices4[3]="4. I have no clue";
 		
-		String[] choices5 = new String[3];
+		String[] choices5 = new String[4];
 		choices5[0]= "1. Absolutely";
 		choices5[1]="2. Possibly, need more evidence";
 		choices5[2]="3. Definately not";

@@ -1,6 +1,5 @@
 package Overloads;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class overload {
